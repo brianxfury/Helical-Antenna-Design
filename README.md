@@ -1,5 +1,5 @@
 # <b>Design of Helical Antenna</b>
-<i>project named “Design of Helical Antenna using 4nec2 Antenna Simulation Software” as partial fulfillment of the subject entitled “Transmission Media and Antenna Systems Laboratory (ECE511L)</i>
+<i>Project named “Design of Helical Antenna using 4nec2 Antenna Simulation Software” as partial fulfillment of the subject entitled “Transmission Media and Antenna Systems Laboratory (ECE511L)</i>
 
 <b><tt>This Helical Antenna Design Project was simulated and design from 4nec2 software. For the whole technical documentation and its network configurations. You may request to the author.</tt></b>
 
